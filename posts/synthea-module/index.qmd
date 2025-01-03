@@ -1,0 +1,36 @@
+---
+title: "Synthea Module"
+author: "Ignacio Leiva"
+date: "2025-01-03"
+categories: [news, RWD]
+toc: true 
+---
+
+# This is a exemplary Synthe module
+
+<span style="color: #004A6F; font-weight: 900;"> Acute Mieloma Leukemia </span>
+
+This is the [final report](https://heibox.uni-heidelberg.de/f/914e4e6da4844c0999d8/) from the **Health for the
+Office of the National Coordinator for Health Information Technology**. They also prepared the module [Companion Guide for AML](https://heibox.uni-heidelberg.de/f/8e0aca53cbb24c4480b5/)
+
+# Pre settings for the MM module
+
+## The Visio Diagram
+## Define the modules states
+
+Myeloma Multple States need to provide details about each clinical state modeled. Table provided information on that. 
+
+
+| State Name   | Type    | State Details   | Codification |
+|--------------|---------|-----------------|--------------|
+| Initial | Initial  | Initial module required by Synthea | n/a     |
+|         | Delay  | Delay in years for a percentage of the individuas after birth before progressing to blank state | n/a |
+
+## Modules parameters
+
+Module Parameters summarizes the probabilities used to construct the module. A state moves to another considering each branch, the values that each branch takes can range from 0-1, and multiples branch are present, their sum should be 1. This are probabilities.
+
+| Parameter   | Value    | Comments/ref   |
+|--------------|---------|----------------|
+| Probability of age at time of MM diagnosis | 1  | n/a | 
+|    

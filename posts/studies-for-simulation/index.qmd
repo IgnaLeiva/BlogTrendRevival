@@ -1,0 +1,40 @@
+---
+title: "Studies for data simulation"
+author: "Ignacio Leiva"
+date: "2025-01-03"
+categories: [studies, RWD, analysis]
+#image: "image.jpg"
+bibliography: ref.bib
+---
+
+Those are the potential data sources.
+
+1. **Studies of comparartive effectiveness:**
+
+- @joseph2020
+- @duarte2021
+- @davies2021
+- @minarik2021
+- @Touzeau2021aa
+- @sokol2022
+- @minarik2022
+- @loponen2023
+- @Ludwig2024aa
+- @Fric2024
+
+2. **Studies MM characteristics:**
+
+- @munshi2020
+- @mian2023
+- @terebelo2024
+
+3. **On diagnosis, management, and treatment:**
+
+- @chng2024
+- @rajkumar2024
+- @abduh2024
+- @rafae2024
+
+
+
+

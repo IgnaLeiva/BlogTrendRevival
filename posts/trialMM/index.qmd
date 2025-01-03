@@ -1,0 +1,15 @@
+---
+title: "Myeloma Multiple trials"
+author: "Ignacio Leiva"
+date: "2025-01-03"
+categories: [trial, RCT]
+---
+
+This are the requested trials to Vivli.
+
+- **TOURMALINE-MM1**: Final Overall Survival Analysis of the TOURMALINE-MM1 Phase III Trial of Ixazomib, Lenalidomide, and Dexamethasone in Patients With Relapsed or Refractory Multiple Myeloma.[https://doi.org/10.1200/JCO.21.009](https://ascopubs.org/doi/10.1200/JCO.21.00972). 
+ClinicalTrials.gov ID, [NCT01564537](https://www.clinicaltrials.gov/study/NCT01564537). 
+Other Study ID Numbers: C16010
+
+- **TOURMALINE-MM2**: Oral ixazomib, lenalidomide, and dexamethasone for transplant-ineligible patients with newly diagnosed multiple myeloma.[https://doi.org/10.1182/blood.2020008787](https://ashpublications.org/blood/article/137/26/3616/475589/Oral-ixazomib-lenalidomide-and-dexamethasone-for). ClinicalTrials.gov ID, [NCT01850524](https://clinicaltrials.gov/study/NCT01850524). Other Study ID Numbers: C16014
+
