@@ -7,7 +7,7 @@ categories: [studies, RWD, analysis]
 bibliography: ref.bib
 ---
 
-Those are the potential data sources.
+# Those are the potential data sources.
 
 1. **Studies of comparartive effectiveness:**
 
@@ -36,5 +36,16 @@ Those are the potential data sources.
 - @rafae2024
 
 
+# Facts
+
+In the USA. [Cancer gov](https://seer.cancer.gov/statfacts/html/mulmy.html)
+
+More stats: [SEER](https://seer.cancer.gov/statistics-network/explorer/application.html?site=89&data_type=1&graph_type=2&compareBy=sex&chk_sex_3=3&chk_sex_2=2&rate_type=2&race=1&age_range=1&stage=101&advopt_precision=1&advopt_show_ci=on&hdn_view=0&advopt_show_apc=on&advopt_display=2#resultsRegion0)
+
+- Rate of New Cases and Deaths per 100,000: The rate of new cases of myeloma was 7.2 per 100,000 men and women per year. The death rate was 3.0 per 100,000 men and women per year. These rates are age-adjusted and based on 2017–2021 cases and 2018–2022 deaths.
+
+- Lifetime Risk of Developing Cancer: Approximately 0.8 percent of men and women will be diagnosed with myeloma at some point during their lifetime, based on 2018–2021 data, excluding 2020 due to COVID.
+
+- Prevalence of This Cancer: In 2021, there were an estimated 179,063 people living with myeloma in the United States.
 
 
