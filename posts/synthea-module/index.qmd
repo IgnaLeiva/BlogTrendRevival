@@ -10,8 +10,8 @@ toc: true
 
 <span style="color: #004A6F; font-weight: 900;"> Acute Mieloma Leukemia </span>
 
-This is the [final report](https://heibox.uni-heidelberg.de/f/914e4e6da4844c0999d8/) from the **Health for the
-Office of the National Coordinator for Health Information Technology**. They also prepared the module [Companion Guide for AML](https://heibox.uni-heidelberg.de/f/8e0aca53cbb24c4480b5/)
+This is the [final report](https://heibox.uni-heidelberg.de/f/49d506d7db544a35905f/) from the **Health for the
+Office of the National Coordinator for Health Information Technology**. They also prepared the module [Companion Guide for AML](https://heibox.uni-heidelberg.de/f/2a1435a318834be5a7c9/)
 
 # Pre settings for the MM module
 
