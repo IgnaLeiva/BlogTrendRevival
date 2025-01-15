@@ -11,9 +11,17 @@ toc: true
 <span style="color: #004A6F; font-weight: 900;"> Acute Mieloma Leukemia </span>
 
 This is the [final report](https://heibox.uni-heidelberg.de/f/49d506d7db544a35905f/) from the **Health for the
-Office of the National Coordinator for Health Information Technology**. They also prepared the module [Companion Guide for AML](https://heibox.uni-heidelberg.de/f/2a1435a318834be5a7c9/)
+Office of the National Coordinator for Health Information Technology**. They also prepared the module [Companion Guide for AML](https://heibox.uni-heidelberg.de/f/2a1435a318834be5a7c9/).
 
-# Pre settings for the MM module
+The McCormick's [paper](https://heibox.uni-heidelberg.de/d/f1783c8ff78f46a4a373/)
+
+# Pre settings for the MM module.
+ Two options:
+
+1. Starting from scratch. Considering population prevalence.
+2. From  a study as the levofloxacin example: I will use the same start cosidering a prevalance for M am F not stratify by age. Then I will use the trial data to characterise the population.
+
+**Watch out**: Geogrphy excell contain defined information, and gender and races are creating based on that. Then, if the proportion of then is low whe  running codes with low number of populations, no sample will be found.
 
 ## The Visio Diagram
 ## Define the modules states

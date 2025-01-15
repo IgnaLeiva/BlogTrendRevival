@@ -24,6 +24,7 @@ bibliography: ref.bib
 
 2. **Studies MM characteristics:**
 
+- @chari2020
 - @munshi2020
 - @mian2023
 - @terebelo2024
@@ -34,6 +35,7 @@ bibliography: ref.bib
 - @rajkumar2024
 - @abduh2024
 - @rafae2024
+
 
 
 # Facts
