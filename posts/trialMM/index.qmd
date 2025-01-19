@@ -1,5 +1,5 @@
 ---
-title: "Myeloma Multiple trials"
+title: "Multiple Myeloma trials"
 author: "Ignacio Leiva"
 date: "2025-01-03"
 categories: [trial, RCT]
